@@ -1,7 +1,6 @@
 The Rainbow
 
 yellow
-green
 red
 pink
 orange
